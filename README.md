@@ -26,6 +26,9 @@ Hey there! 👋 I'm Rajesh, a passionate developer and an accountant. My journey
 #### Q:What does this tool do?
 - A:This tool simplifies the process by fetching and pooling all spreadsheet contents into a user-friendly graphical interface. Users can easily select a game from the drop-down menu and navigate to the appropriate link. It streamlines the experience of accessing game-related content.
 
+#### Q: Will the tool download the game?
+A: No, the tool does not download games. Its primary function is to streamline the process by navigating to the respective URL of the game, making it easier for users to access and download games on their own.
+
 #### Q:Does the tool contain viruses?
 
 - A: No, the tool is free from viruses. I've also attached the VirusTotal link for your assurance: [VirusTotal Link](https://www.virustotal.com/gui/file/95b9b421680135ad3f21a67774d7e22a90b455e5c2e329f6e51188083df9b7f3?nocache=1).
