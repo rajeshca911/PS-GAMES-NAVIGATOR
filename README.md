@@ -27,7 +27,7 @@ Hey there! 👋 I'm Rajesh, a passionate developer and an accountant. My journey
 - A:This tool simplifies the process by fetching and pooling all spreadsheet contents into a user-friendly graphical interface. Users can easily select a game from the drop-down menu and navigate to the appropriate link. It streamlines the experience of accessing game-related content.
 
 #### Q: Will the tool download the game?
-A: No, the tool does not download games. Its primary function is to streamline the process by navigating to the respective URL of the game, making it easier for users to access and download games on their own.
+- A: No, the tool does not download games. Its primary function is to streamline the process by navigating to the respective URL of the game, making it easier for users to access and download games on their own.
 
 #### Q:Does the tool contain viruses?
 
